@@ -1,0 +1,23 @@
+{
+  "id": 1,
+  "name": "Vadym",
+  "surname": "Kostenko",
+  "address": {
+    "street": "Lomonosova",
+    "numberHous": "35",
+    "city": "Kyiv"
+  },
+  "phoneNumber": [
+    380663396268,
+    380669227684
+  ],
+  "role": "Junior Java Developer",
+  "cities": [
+    "Kyiv",
+    "Odessa"
+  ],
+  "properties": {
+    "age": "23 years",
+    "salary": "800 USD"
+  }
+}
